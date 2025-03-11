@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+requests
+openpyxl
+scipy
+yellowbrick
+scikit-learn
+plotly
+nbformat
+jupyter
